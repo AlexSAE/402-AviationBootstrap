@@ -6580,35 +6580,3 @@ h1,
   text-align: center;
   font-weight: 300;
 }
-.header-top {
-  background-color: #274f75;
-  color: #fff;
-}
-.header-top h1 {
-  font-family: Baskerville;
-  font-size: 64px;
-  font-style: strong;
-}
-.header-top p {
-  font-family: Arial;
-  font-size: 14px;
-  margin-top: 20px;
-}
-.hero {
-  background-image: url(../img/hero-bg.jpg);
-  background-size: cover;
-  height: 580px;
-}
-.hero h1 {
-  font-family: Baskerville;
-  font-style: strong;
-  font-size: 58px;
-  margin-top: 114px;
-  color: #295071;
-  text-align: left;
-}
-.hero p {
-  font-family: Arial;
-  font-size: 25px;
-  margin-top: 38px;
-}
